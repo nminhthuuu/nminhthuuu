@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nminhthuuu
 - 👀 I’m interested in learning Automation Testing
-- 🌱 I’m currently learning Playwrigh
+- 🌱 I’m currently learning Playwright
 
 
 <!---
